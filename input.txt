@@ -1,0 +1,11 @@
+node (0 {nula})
+node (1 {jedna})
+
+
+edge (0)-[0 {nula-jedna}]->(1)
+node (2 {dva})
+node (3 {3})
+node (4 {4})
+node (5 {5})
+node (6 {6})
+node (7 {7})
